@@ -33,11 +33,10 @@ unpublished: false
 
 # Plugins
 whitelist: []
-plugins: []
 
 # Conversion
 markdown: redcarpet
-highlighter: rouge
+highlighter: pygments
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
@@ -52,11 +51,10 @@ show_dir_listing: false
 # Outputting
 permalink: pretty
 paginate_path: /page:num
-paginate: 3
+# paginate: 3
 timezone: Europe/Zurich
 quiet: false
 verbose: false
-pygments: true
 defaults: []
 liquid:
   error_mode: warn
