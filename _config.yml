@@ -85,4 +85,4 @@ description: > # this means ignore newlines until "baseurl:"
   Description of the most awesomest site of awsome sites...
 url: "" # "https://phdenzel.io" # the base hostname & protocol for the site
 github_username: phdenzel
-twitter_username: @phdenzel
+twitter_username: phdenzel
